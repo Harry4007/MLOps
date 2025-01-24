@@ -7,7 +7,7 @@ This repository demonstrates the implementation of a Continuous Integration/Cont
 The primary objective of this project is to automate the deployment of a loan approval classifier model with the following key steps:
 
 1. **Create a Git repository:**
-   - The project is hosted on GitHub at [https://github.com/Praveen76/CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model](https://github.com/Praveen76/CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model.git).
+   - The project is hosted on my GitHub
 
 2. **Implement the API server:**
    - Use a Python web framework such as Flask or FastAPI to build the API server. The server should expose an endpoint for serving predictions from the ML model.
@@ -70,13 +70,4 @@ CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model/
 The CI/CD workflow is automated through GitHub Actions. On each push to the repository, the workflow performs model testing and, if successful, triggers the deployment process.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or inquiries, feel free to contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/).
-
-## **About Me**:
-I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
+***Note***: This project has been copied from [https://github.com/Praveen76/CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model](https://github.com/Praveen76/CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model.git) for learning purpose.
