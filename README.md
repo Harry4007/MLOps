@@ -50,20 +50,7 @@ CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model/
 ├── pyproject.toml
 └── setup.py
 ```
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Praveen76/CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd CI-CD-Pipeline-using-Docker-for-Loan-Approval-Classifier-Model
-   ```
-
-3. Follow the deployment steps mentioned in the respective directories (`/model` and `/api_server`).
+Follow the deployment steps mentioned in the respective directories (`/model` and `/api_server`).
 
 ## CI/CD Workflow
 
